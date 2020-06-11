@@ -4,3 +4,9 @@ class Teacher < User
 
   
 end
+
+def teach 
+  
+ 
+   
+end 
