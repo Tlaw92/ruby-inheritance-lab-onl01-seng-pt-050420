@@ -5,8 +5,8 @@ class Teacher < User
   
 end
 
-def teach 
-  
- 
+  def teach 
+    KNOWLEDGE.sample
+  end  
    
-end 
+
